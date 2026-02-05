@@ -223,9 +223,9 @@ Fully inspectable source code
 
 ## 🧑‍💻 Author
 
-Built with ❤️ as a personal IoT + learning project.
+Built for a purpose, but enjoyed learning and implementing every bit of it :)
 
-If you’re reading this as a friend:
+If you’re curious about this:
 plug in the Pi, run ./startup.sh, and you’re done 🙂
 
 ## 📜 License
